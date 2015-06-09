@@ -1,0 +1,15 @@
+{
+  "name": "oe_Slack",
+  "version": "1.0.0",
+  "description": "oeoeoe",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oetaitkt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x"
+  }
+}
