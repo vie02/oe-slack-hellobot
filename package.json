@@ -1,6 +1,6 @@
 {
-  "name": "oe_Slack",
-  "version": "1.0.0",
+  "name": "oe-slack-hellobot",
+  "version": "0.0.1",
   "description": "oeoeoe",
   "main": "app.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "oetaitkt",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vie02/oe-slack-hellobot.git"
+  },
   "dependencies": {
     "express": "^4.x.x",
     "body-parser": "^1.x.x"
